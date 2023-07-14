@@ -1,4 +1,4 @@
-<h1 align="center">Hi!! I'm 🌴Aaron Agosto🌴</h1>
+<h1 align="center">Hi!! I'm 🌴 Aaron Agosto 🌴</h1>
 <h3 align="center">A full-stack developer from South Florida</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif">
 - 🌱 I’m currently learning **Generative AI, TypeScript, Next.JS**
